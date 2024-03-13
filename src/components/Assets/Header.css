@@ -1,0 +1,11 @@
+.HeaderContainer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.HeaderTitle{
+    font-size: 2rem;
+    margin: 0;
+}
